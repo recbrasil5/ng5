@@ -1,0 +1,13 @@
+Angular CLI
+------------
+npm install @angular/cli -g  => installs cli
+
+ng new ng5 --style=scss --routing ==> scaffolds new project w/sass & routing already defined & set up
+
+ng serve ==> builds & runs on localhost:4200
+
+ng generate component [name] ==> generates component (creates dir)
+ng g c [name]
+
+ng generate service [name] ==> generates service
+ng g s [name]
